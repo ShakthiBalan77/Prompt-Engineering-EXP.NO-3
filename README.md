@@ -52,3 +52,4 @@ OUTPUT:
 ![IMAGE](PROMPT4.jpg)
 
 RESULT: 
+Thus,To write the prompts for the following prompt types for 2 different scenarios of Each type is completed successfully.
